@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.rotate-icon {
+  transition: transform 0.2s ease; /* Adjust the time as needed */
+}
+
+.rotate-icon.rotate-180 {
+  transform: rotate(180deg);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

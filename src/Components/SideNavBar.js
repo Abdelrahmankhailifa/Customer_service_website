@@ -43,12 +43,12 @@ const SideNavBar = ({ open, setOpen }) => {
               style={{ color: "white" }}
             />
             <h1
-              className={`text-white origin-left font-medium text-2xl duration-300 ${
+              className={`text-gray-300 origin-left font-medium text-2xl duration-300 ${
                 !open && "scale-0"
               }`}
             >
               {" "}
-              Employment Name{" "}
+              WASAL{" "}
             </h1>
           </div>
 

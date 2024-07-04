@@ -10,7 +10,7 @@ const chatsSideBar = () => {
           alt=""
         />
         <div className=" mt-3">
-          <span className=" text-white font-bold text-xl">Josh</span>
+          <span className=" text-gray-300 font-bold text-xl">Josh</span>
           <p className="text-sm text-gray-400">Hello</p>
         </div>
       </div>
@@ -21,7 +21,7 @@ const chatsSideBar = () => {
           alt=""
         />
         <div className=" mt-3">
-          <span className=" text-white font-bold text-xl">Josh</span>
+          <span className=" text-gray-300 font-bold text-xl">Simon</span>
           <p className="text-sm text-gray-400">Hello</p>
         </div>
       </div>
@@ -32,7 +32,7 @@ const chatsSideBar = () => {
           alt=""
         />
         <div className=" mt-3">
-          <span className=" text-white font-bold text-xl">Josh</span>
+          <span className=" text-gray-300 font-bold text-xl">Tobi</span>
           <p className="text-sm text-gray-400">Hello</p>
         </div>
       </div>
@@ -43,7 +43,7 @@ const chatsSideBar = () => {
           alt=""
         />
         <div className=" mt-3">
-          <span className=" text-white font-bold text-xl">Josh</span>
+          <span className=" text-gray-300 font-bold text-xl">Vik</span>
           <p className="text-sm text-gray-400">Hello</p>
         </div>
       </div>
